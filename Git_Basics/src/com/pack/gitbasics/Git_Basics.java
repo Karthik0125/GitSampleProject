@@ -14,4 +14,7 @@ public class Git_Basics {
 	void m3(){
 		System.out.println("Added by Gowthami.....");
 	}
+	void m4(){
+		System.out.println("Narayana : This is method is added by me: ");
+	}
 }
