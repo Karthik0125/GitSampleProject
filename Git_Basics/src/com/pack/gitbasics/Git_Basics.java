@@ -11,4 +11,7 @@ public class Git_Basics {
 	void m2(){
 		System.out.println("Hello World!");
 	}
+	void m3(){
+		System.out.println("Added by Gowthami.....");
+	}
 }
