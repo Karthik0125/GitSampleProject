@@ -7,4 +7,8 @@ public class Git_Basics {
 
 	
 	}
+
+	void m2(){
+		System.out.println("Hello World!");
+	}
 }
